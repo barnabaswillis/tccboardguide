@@ -461,7 +461,7 @@
 
 <!-- CTA BUTTON -->
 <div class="cta-section">
-  <a href="https://forms.gle/Ld4PzpT25TLztj2i9"
+  <a href="https://forms.gle/Ld4PzpT25TLztj2i9" class="cta-btn">
     Submit a Candidate Referral
     <span class="cta-sub">Opens the Referral Form · Takes 2 minutes</span>
   </a>
